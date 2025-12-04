@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=TestCenso
+comment0.text=Test\ del\ codigo\ desarrollado\ en\ la\ practica\ 1\ *
+comment1.params=
+comment1.target=void\ listar()
+comment10.params=a
+comment10.target=java.util.ArrayList\ obtenerCenso(ListaElectores)
+comment2.params=
+comment2.target=void\ comprobar()
+comment3.params=ok
+comment3.target=boolean\ mostrar(boolean)
+comment4.params=
+comment4.target=boolean\ testListaOrdenada()
+comment5.params=
+comment5.target=boolean\ testHabitante()
+comment6.params=
+comment6.target=boolean\ testIndice()
+comment7.params=ordenada
+comment7.target=boolean\ testIndice(boolean)
+comment8.params=
+comment8.target=boolean\ testListaElectores()
+comment9.params=ordenada
+comment9.target=boolean\ testListaElectores(boolean)
+numComments=11

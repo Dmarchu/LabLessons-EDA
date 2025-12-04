@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ServidorColaPrioridadPlus
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ServidorColaPrioridadPlus\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ServidorColaPrioridadPlus()
+comment2.params=
+comment2.target=int\ numPacientes()
+comment3.params=
+comment3.target=Paciente\ transferirPaciente()
+comment4.params=s
+comment4.target=void\ distribuirPacientes(ServidorQuirofanoPlus)
+comment5.params=p
+comment5.target=void\ insertarEnEspera(Paciente)
+comment6.params=h
+comment6.target=Paciente\ operarPaciente(int)
+numComments=7
